@@ -1,0 +1,52 @@
+#social-wrap{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 15px;
+}
+
+#footerTitle{
+    text-align: center;
+    font-weight: normal;
+    margin-top: 40px;
+
+}
+
+.footerText-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.footerInnertext-wrap{
+    text-align: center;
+}
+
+.innerText-one{
+    font-weight: normal;
+}
+
+.innerText-two{
+    font-weight: normal;
+    font-size: 9px;
+    margin-top: 30px;
+}
+
+.innerText-three{
+    font-weight: normal;
+    font-size: 9px;
+    margin-top: 15px;
+}
+
+.innerText-four{
+    font-weight: normal;
+    font-size: 9px;
+    margin-top: 15px;
+}
+
+#copy-right{
+    text-align: center;
+    font-weight: normal;
+    margin-top: 40px;
+
+}

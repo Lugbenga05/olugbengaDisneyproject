@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background-color: rgb(240, 235, 235);
+  width: 100%;
+  height: 100vh;
+}
+
+.pagetwo-body{
+  display: flex;
+  gap: 15px;
+  margin-left: 20px;
+  margin-top: 50px; 
+}
+
+.pagethreeHeading{
+  text-align: center;
+  margin-top: 80px;
+}
+
+.pagethree-body{
+  display: flex;
+  gap: 15px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.pagethree-link{
+  margin-top: 20px;
+  text-align: end;
+  margin-right: 25px;
+  text-decoration: underline;
+  color: blue;
+}
+
+#link3{
+  color: blue;
+  font-weight: normal;
+}
+
+.pagefour-background{
+  background-color: darkblue;
+  width: 100%;
+  height: 630px;
+  margin-top: 55px;
+}
+
+.pagefourHeading{
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}
+
+.pagefour-body{
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.pagefiveHeading{
+  text-align: center;
+  margin-top: 55px;
+}
+
+.pagefive-body{
+  display: flex;
+  gap: 15px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.pagesixBackground{
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  margin-top: 65px;
+}
+
+.pagesixHeading{
+  text-align: center;
+}
+
+.pagesix-body{
+  display: flex;
+  gap: 15px;
+  margin-left: 50px;
+}
+
+.pagesix-link{
+  text-align: end;
+  margin-right: 65px;
+  text-decoration: underline;
+  color: blue;
+}
+
+#link6{
+  color: blue;
+  font-weight: normal;
+}
+
+.logo-wrap{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 60px;
+
+}
+
+.logos{
+  width: 150px;
+}
+
+#special{
+  text-align: center;
+  margin-top: 80px;
+}
+
+.specialData{
+  display: flex;
+  gap: 25px;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+#characterTitle{
+  text-align: center;
+  margin-top: 60px;
+}
+
+.characterImage-wrap{
+  display: flex;
+  gap: 25px;
+  margin-left: 85px;
+  margin-top: 30px;
+}
+
+.characterImage{
+  width: 160px;
+}
+
+
+

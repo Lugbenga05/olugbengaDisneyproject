@@ -1,0 +1,19 @@
+.pagefiveContent{
+    width: 285px;
+    height: 400px;
+    /* border: solid 1px red; */
+    background-color: white;
+}
+
+.popularcharacterTitle{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    font-weight: normal;
+}
+
+.popularcharacterText{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 15px;
+}

@@ -1,0 +1,71 @@
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+    width: 100%;
+    background-color: white;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    padding: 35px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+
+#nav-logo{
+    width: 105px;
+    height: 55px;
+    margin-left: 35px;
+    margin-top: 18px;
+}
+
+.inputSearch-wrap{
+    height: 30px;
+    margin-right: 40px;
+    margin-top: 25px;
+
+}
+
+#inputSearch{
+    height: 35px;
+    width: 150px;
+    padding-top: 1px;
+}
+
+input::placeholder{
+    padding: 8px;
+}
+
+button{
+    background-color: white;
+    border: solid 1px;
+    border-radius: 0 5px 5px 0;
+    height: 35px;
+    width: 50px;
+    padding-bottom: 2px;
+    cursor: pointer;
+    
+    
+
+}
+
+#searchIcon{
+    width: 15px;
+    height: 15px;
+    
+}
+
+#storyOlaf-image{
+    width: 100%;
+}
+

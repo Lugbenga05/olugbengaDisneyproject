@@ -1,0 +1,21 @@
+.pagetwoContent-one{
+    width: 285px;
+    height: 450px;
+    /* border: solid 1px red; */
+    background-color: white;
+}
+
+.pagetwoTitle{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    font-weight: normal;
+}
+
+.pagetwoText{
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 20px;
+    font-size: 14px;
+} 
